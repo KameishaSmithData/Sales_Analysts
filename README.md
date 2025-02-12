@@ -36,7 +36,7 @@ The dataset consists of sales transactions with key columns:
 ![Quarterly Sales Trends](quarterly_sales_trends.png)
 
 ### **🏆 Top Products by Year**
-![Top Products](most_sucessful_quarters.png)
+![Top Products](top_products_by_year.png)
 
 ---
 
